@@ -1,6 +1,6 @@
 # Notes on the 37bpd
 
-These are design notes on the [Wings to Awakening](https://www.accesstoinsight.org/lib/authors/thanissaro/wings), the Buddha's own list of his most important teachings.
+These are the notes for the design of a card deck exploring the [Wings to Awakening](https://www.accesstoinsight.org/lib/authors/thanissaro/wings), the Buddha's own list of his most important teachings.
 
 ## The seven sets
 
