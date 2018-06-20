@@ -12,7 +12,7 @@ These are the notes for the design of a card deck exploring the [Wings to Awaken
 6. [7 Factors for Awakening](bojjhanga.md)
 7. [The Noble Eightfold Path](magga.md)
 
-## Bonus: 2 cards (Jokers?)
+#### Bonus: 2 cards (Jokers?)
 
 1. [Friendship with admirable people](kalayana-mittatta.md)
 2. [Appropriate attention](yoniso-manasarikara.md)
